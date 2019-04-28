@@ -7,5 +7,3 @@ Hope there is chance to share my notes and help more to start with machine learn
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heathcliff233/ai_programming/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/heathcliff233/ai_programming/master
