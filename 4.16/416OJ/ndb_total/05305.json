@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05305",
+            "name": "Ground turkey, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.36",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "328.22"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "148",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "671"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "169"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.66",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89.18"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.66",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.75"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "86"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.09",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.94"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "200",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "907"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "228"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "237",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1075"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "270"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "58",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "263"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.35",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.66"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.066",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.299"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.075"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.156",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.708"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.178"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.733",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.541"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.676"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.564",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.558"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.643"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.54"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "66",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "299"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.09",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NR",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.024",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.181"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.307"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.635",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.952"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.205",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.002"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.514"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.103",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.467"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.117"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "69",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "313"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "lb",
+                            "eqv": 453.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "patty, 4 oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,762 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "10919",
+            "name": "Pork, cured, ham and water product, shank, bone-in, separable lean and fat, heated, roasted",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "60.03",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "51.03"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1923.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "234",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "199"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7497"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.17",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.44"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "582.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.29",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.70"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "553.97"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.42",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.21"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.99",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.84"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "256"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.85"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "481"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "193",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "164"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6184"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "216",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "184"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6921"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "945",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "803"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30278"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.36",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.01"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.362",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.308"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.598"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.171",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.145"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.479"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.159",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.535"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "133.254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.346",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.294"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.086"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.42",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "384"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "38",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1218"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.31",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.715",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.858"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "183.109"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.914",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.727"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "253.565"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.281",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.939"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73.083"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.133",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.113"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.261"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "72",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2307"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast shank",
+                            "eqv": 3204.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

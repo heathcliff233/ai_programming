@@ -1,0 +1,948 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05123",
+            "name": "Chicken, stewing, meat and skin, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "61.84",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "52.56"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "167.59"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "246.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "258",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "219"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "699"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1027"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.55",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "14.92"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.56"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "69.85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.33",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "17.28"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55.09"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "80.91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.04",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.88"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.82"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "172",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "146"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "466"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "685"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "204",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "173"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "553"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "812"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "71",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "192"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "283"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.19",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.01"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.22"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.114",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.097"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.309"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.454"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.167",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.142"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.453"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.665"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.262",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5.323"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.970"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "24.923"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.330",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.281"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.894"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.313"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.87"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "52",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "44"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "141"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "207"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "178",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "151"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "482"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "708"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "CASN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.33",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.89"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "CAZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.5"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "9.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.710",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.854"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.474"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "22.726"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "8.240",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "7.004"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.330"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "32.795"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.440",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.774"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.032"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "17.671"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "71",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "192"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "283"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook chicken)",
+                            "eqv": 271.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "chicken, bone removed",
+                            "eqv": 398.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

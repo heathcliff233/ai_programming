@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05706",
+            "name": "Turkey, whole, meat and skin, with added solution, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "71.26",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "60.57"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4073.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "158",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "134"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9033"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.03",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "16.18"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1087.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "7.74"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "520.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.15",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.08",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "800"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.67",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1201"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "195",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "166"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11148"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "211",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "179"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "180",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "153"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10291"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.68",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.43"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.039",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.230"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.170",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.145"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.719"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "7.246",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.159"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "414.254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.540",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.459"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.872"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.16",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.99"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1315"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "78",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4459"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.09",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "858"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NR",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.700",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.445"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "97.189"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NR",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.900",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.315"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "222.963"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NR",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.500",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.975"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "200.095"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.163",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.139"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.319"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4002"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bird",
+                            "eqv": 5717.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

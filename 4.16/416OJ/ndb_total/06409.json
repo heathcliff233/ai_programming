@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06409",
+            "name": "Soup, beef noodle, canned, prepared with equal volume water",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "92.16",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "224.87"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "546.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "34",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "83"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "202"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.93",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.71"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.23",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.00"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.58",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.74"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.3",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.03",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.51"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.44",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.07"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "113"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "40",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "98"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "237"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "325",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "793"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1927"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.62",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.51"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.028",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.068"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.166"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.024",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.059"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.142"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.425",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.037"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.520"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.037"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.089"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.08",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "101",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "246"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "599"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.50",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.22"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.455",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.110"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.698"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.495",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.208"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.935"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.195",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.476"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.156"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "RPI",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 244.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (10.75 oz), prepared",
+                            "eqv": 593.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

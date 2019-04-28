@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01018",
+            "name": "Cheese, edam",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "41.56",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.78"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "357",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "707"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.99",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.08"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "27.80",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.88"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.43",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.43",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "731",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "207"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1447"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.44",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.87"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "536",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "152"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1061"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "372"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NR",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "812",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "230"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1608"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.06"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.037",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.073"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.389",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.110"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.770"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.082",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.162"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.076",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.150"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.54",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.44"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "243",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "481"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "825",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "234"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1634"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.24",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "17.572",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.982"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.793"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "8.125",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.303"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.087"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.665",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.189"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.317"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "89",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "176"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (7 oz)",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

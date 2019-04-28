@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "07010",
+            "name": "Bologna, pork",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "60.60",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.97"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.94"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "247",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.30",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.28"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.87",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.56"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.73",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.77",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "139",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "281",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "907",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.03",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.523",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.146"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.120"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.157",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.044"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.900",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.092"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.897"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.270",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.076"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.93",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NR",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.26",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.4",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.3",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.839",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.915"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.573"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "9.732",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.725"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.238"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.107",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.590"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.485"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "59",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice, medium (4-1/2\" dia x 1/8\" thick) (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice (4\" dia x 1/8\" thick)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

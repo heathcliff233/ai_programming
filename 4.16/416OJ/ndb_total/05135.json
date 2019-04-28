@@ -1,0 +1,948 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05135",
+            "name": "Chicken, capons, meat and skin, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "63.24",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "53.75"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "187.82"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "609.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "234",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "199"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "695"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2256"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.77",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "15.95"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55.75"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "180.94"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.07",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "14.51"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.70"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "164.55"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "106"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.09",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.93"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.24"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "10.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "202"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "183",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "156"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "544"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1764"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "217",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "184"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "644"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2092"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "45",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "134"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "434"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.17",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.99"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.47"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "11.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.0"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "16.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.064",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.054"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.190"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.617"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.127",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.108"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.377"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.224"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "7.273",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.182"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.601"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "70.112"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.360",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.306"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.069"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.470"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.34",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.01"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "110"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "357"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "129",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "110"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "383"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1244"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "CASN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.95"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "CAZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.1"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "23.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.950",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.207"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.702"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "47.718"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.310",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.213"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.711"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "70.468"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.620",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.077"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.751"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "34.897"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "223"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "723"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook capon)",
+                            "eqv": 297.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "capon, bone removed",
+                            "eqv": 964.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

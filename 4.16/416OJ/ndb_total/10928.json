@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "10928",
+            "name": "Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "71.62",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60.88"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1072.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "114",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "97"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1707"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.54",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.46"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "307.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.13",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.66"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.84",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.71"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.81",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.84",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.71"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "329"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "318",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "270"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4760"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "367",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "312"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5494"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1179",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1002"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17650"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.98",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.68"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.619",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.526"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.266"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.215",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.183"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.219"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.820",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.797"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "102.095"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.461",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.392"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.901"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.42",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "195"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "44",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "659"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.27",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "449"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.084",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.921"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.227"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.479",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.257"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.141"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.452",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.384"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.766"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.001",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "838"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 1497.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

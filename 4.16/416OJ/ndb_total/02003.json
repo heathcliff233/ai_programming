@@ -1,0 +1,1272 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "02003",
+            "name": "Spices, basil, dried",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.35",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "233",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.98",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.07",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "47.75",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.00"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.67"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "37.7",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.71",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2240",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "89.80",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.63"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.89"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.26"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "711",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "274",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2630",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "118"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "76",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7.10",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.200",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.008"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.054"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.900",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.103"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.069"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.221"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.340",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.060"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "310",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "744",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "10.70",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1714.5",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36.0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.157",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.030"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.097"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.238",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.056"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.498",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tsp, leaves",
+                            "eqv": 0.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, leaves",
+                            "eqv": 2.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tsp, ground",
+                            "eqv": 1.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp, ground",
+                            "eqv": 4.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

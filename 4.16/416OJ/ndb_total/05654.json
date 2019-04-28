@@ -1,0 +1,917 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05654",
+            "name": "Ostrich, tenderloin, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "74.50",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63.33"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "339.72"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "123",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "561"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.07",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.76"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100.64"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.19",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.71"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.55"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4.88",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.15"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.25"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "BFNN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "BFNN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "220",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "187"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1003"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "BFNN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "320",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "272"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1459"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "86",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "392"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "BFNN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.87",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.29"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.65"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.198",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.168"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.903"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.056"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.291",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.247"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.327"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.082"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.778",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.061"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.788"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.355"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.519",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.441"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.367"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.147"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5.03",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.28"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.94"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.21",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.96"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.170",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.994"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.335"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.332"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.230",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.045"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.609"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.349"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.750",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.637"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.420"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.213"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "80",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "365"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (cooked from 4 oz raw)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "lb",
+                            "eqv": 456.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

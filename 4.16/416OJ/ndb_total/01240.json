@@ -1,0 +1,562 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01240",
+            "name": "Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "37.43",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "354",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "340"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.21",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.88",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "34.38",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "25.00",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "63",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "FLC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "FLC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "108",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "FLC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "222",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "213"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "94",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "FLC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.86",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "LC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.108",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.252",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.242"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.829",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.796"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.046",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.044"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.36",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "LC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "104",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "FLC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "LC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "11.458",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "FLC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.340",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.046"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "FLC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.657",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.591"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "LC",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "FLC",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "unit",
+                            "eqv": 96.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

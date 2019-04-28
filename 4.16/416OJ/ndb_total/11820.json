@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11820",
+            "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "92.50",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67.53"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "62.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.90",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.66"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.10",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.10",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.72"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.3",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "BFSN",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.32",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.42"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.50",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "187",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "137"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "127"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1173",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "856"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "798"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.17",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "68.0",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49.6"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "46.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.014"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.050",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.037"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.034"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.584"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.544"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.153",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.112"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "595",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "434"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "405"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "11892",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8681"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "8087"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.69",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.50"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8.7",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.4"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.010",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.007"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.006",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.055",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.040"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.037"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "pepper",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, chopped or diced",
+                            "eqv": 68.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

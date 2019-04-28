@@ -1,0 +1,1503 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05080",
+            "name": "Chicken, broilers or fryers, leg, meat only, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "76.41",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "64.95"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "202.49"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112.32"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67.24"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "102"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "318"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "176"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.16",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "16.29"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.77"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.17"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.86"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.22",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.59"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.18"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.20"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.71"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.78",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.66"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.07"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.15"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "180",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "153"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "477"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "265"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "158"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "238",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "202"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "631"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "350"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "96",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "82"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "141"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.76",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.50"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.66"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.59"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.55"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.087",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.074"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.231"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.128"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.077"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.179",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.152"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.474"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.263"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.158"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.054"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.578",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.741"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.782"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.200"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.909"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.673"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.406",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.345"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.076"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.597"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.357"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.122"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.57",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.51"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.84"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.50"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "85"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.8",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.4"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.4"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.050",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.892"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.783"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.543"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.924"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.315"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.440",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.224"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.816"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.117"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.267"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.432"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.962",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.818"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.549"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.414"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.847"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.289"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.013"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.040"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "91",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "77"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "241"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "134"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leg, bone and skin removed (Sum of drumstick+thigh+back meat only)",
+                            "eqv": 265.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 147.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drumstick bone and skin removed",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "back bone and skin removed",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,562 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01251",
+            "name": "Cheese, Mexican blend",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "42.48",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "11.89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "358",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "23.54",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "6.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.51",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "7.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.75",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.23",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "659",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "185"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.59",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "438",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "123"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "85",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NR",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "338",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.01",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.023",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.318",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.089"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.114",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.032"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.061",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.017"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.23",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "174",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "659",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "185"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.5",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.5",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "17.027",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "4.768"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.871",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "2.204"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.864",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0.242"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "95",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "RA",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 0.25,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

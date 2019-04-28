@@ -1,0 +1,1503 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "09218",
+            "name": "Tangerines, (mandarin oranges), raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "85.17",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166.08"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64.73"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "74.95"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "102.20"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.81",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.58"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.71"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.97"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.31",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.34",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.01"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.14"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.74"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.01"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.8",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.5"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.6"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.58",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.63"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.04"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.31"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.70"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.15",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "166",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "324"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "126"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "146"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "199"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "181"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.07",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "26.7",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52.1"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.3"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.5"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.058",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.113"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.044"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.070"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.036",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.070"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.027"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.032"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.039"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.376",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.733"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.286"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.331"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.451"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.410"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.078",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.152"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.059"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.069"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.094"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.085"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "34",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "681",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1328"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "518"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "599"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "817"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "742"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.039",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.076"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.030"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.047"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.117"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.046"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.053"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.072"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.065"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.065",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.127"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.049"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.057"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.078"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.071"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, sections",
+                            "eqv": 195.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small (2-1/4\" dia)",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (2-1/2\" dia)",
+                            "eqv": 88.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (2-3/4\" dia)",
+                            "eqv": 120.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 109.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

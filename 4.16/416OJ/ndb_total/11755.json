@@ -1,0 +1,714 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11755",
+            "name": "Cabbage, chinese (pe-tsai), cooked, boiled, drained, with salt",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "95.24",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "113.34"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.50",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.78"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.17",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.41",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.87"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "BFSN",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "39",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "225",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "268"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "245",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "292"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "15.8",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.8"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.044",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.052"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.044",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.052"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.500",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.595"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.070"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.177",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.211"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "48",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "967",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1151"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "135"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.036",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.061",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.073"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 119.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

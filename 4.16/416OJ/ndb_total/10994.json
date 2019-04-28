@@ -1,0 +1,522 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "10994",
+            "name": "Bacon, pre-sliced, reduced/low sodium, unprepared",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "45.01",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.70"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "200.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "407",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1815"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.53",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.26"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55.88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "39.27",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.21"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "175.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.83",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.83",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.42",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.87"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "180",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "803"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "506",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "132"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2257"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "470",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2096"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.19",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.50",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.43",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 26.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package",
+                            "eqv": 446.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

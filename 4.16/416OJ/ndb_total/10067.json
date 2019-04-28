@@ -1,0 +1,579 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "10067",
+            "name": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, braised",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "65.14",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87.94"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "170",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "230"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.54",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.34",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.91",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "230",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "310"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "269",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "363"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "67",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.37",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.545",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.736"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.245",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.331"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "10.263",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.855"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.561",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.757"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "BFPN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.66",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "36",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.657",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.237"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.934",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.611"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.551",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.744"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.020"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "71",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "chop",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

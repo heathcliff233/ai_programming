@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06559",
+            "name": "Soup, tomato, canned, prepared with equal volume water, commercial",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "90.55",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "224.56"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.71",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.76"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.21",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.52"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.45",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.48"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.5",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "RPI",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.03",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.99"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.72"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "275",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "682"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "186",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "461"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "RPA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.09",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.3",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.6"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.050"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.007",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.420",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.042"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.130"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.042",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.104"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "192",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "476"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.17",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "RPI",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.7"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.056",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.139"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.067",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.166"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.077",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.191"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "RPI",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "RPI",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fl oz",
+                            "eqv": 31.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

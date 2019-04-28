@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05066",
+            "name": "Chicken, broilers or fryers, drumstick, meat and skin, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.46",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96.37"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "94.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "161",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "214"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.08",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.05"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.20",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.24"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.11",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.71",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.94"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "163",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "217"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "212"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "211",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "281"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "274"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "106",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "141"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.86",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.47"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.083",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.110"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.108"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.195",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.259"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.841",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.439"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.293"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.345",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.459"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.448"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.53",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.70"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "46",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.19",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.5",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.3"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.459",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.270"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.197"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.719",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.946"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.835"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.965",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.613"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.554"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.047",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.061"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "92",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "drumstick with skin",
+                            "eqv": 133.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drumstick",
+                            "eqv": 130.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

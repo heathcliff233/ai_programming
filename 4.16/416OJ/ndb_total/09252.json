@@ -1,0 +1,1734 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "09252",
+            "name": "Pears, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "83.96",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117.54"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "135.18"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "124.26"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "149.45"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "193.11"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "139.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "57",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "131"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.36",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.50"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.53"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.64"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.83"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.14",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.23",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.32"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.52"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.54"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.11"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.03"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.1",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.3"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.0"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.5"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.1"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.75",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.65"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.70"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.43"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.36"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.43"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "116",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "162"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "187"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "172"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "206"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "267"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "193"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.10",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.3",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.0"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.9"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.4"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.7"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.9"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.012",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.020"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.026",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.042"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.046"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.060"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.161",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.225"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.259"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.238"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.287"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.370"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.267"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.029",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.041"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.047"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.052"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.067"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.12",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4.4",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.2"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.1"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.5"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.8"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.1"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.022",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.031"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.035"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.039"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.037"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.084",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.118"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.135"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.124"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.150"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.193"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.139"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.094",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.132"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.151"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.139"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.167"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.216"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.156"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, slices",
+                            "eqv": 140.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, cubes",
+                            "eqv": 161.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small",
+                            "eqv": 148.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium",
+                            "eqv": 178.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 230.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

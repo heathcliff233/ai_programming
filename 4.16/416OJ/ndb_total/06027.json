@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06027",
+            "name": "Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "86.04",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "206.50"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "463.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "134"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "302"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.02",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.25"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.41",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.38"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.84",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.82"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.2",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.9"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "FLA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.67",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.01"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "151"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.10",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.64"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "160",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "384"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "862"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "417",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1001"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2248"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.70",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.68"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.77"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.1",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.2"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.024",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.129"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.026",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.140"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.770",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.848"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.150"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.110",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.264"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.593"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3.30",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.92"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "70",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "168"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "377"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1340",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3216"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7223"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.67",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.61"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3.3",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.9"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.880",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.112"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.743"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.410",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.984"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.210"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.050",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.120"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.270"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "FLA",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (19 oz)",
+                            "eqv": 539.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

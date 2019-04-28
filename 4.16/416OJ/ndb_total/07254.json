@@ -1,0 +1,824 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "07254",
+            "name": "Turkey bacon, unprepared",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "61.83",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.66"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.89"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "226",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.94",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.23"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.55"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.93",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.37"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.71"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.89",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "80",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.40",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "222",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "349",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1069",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "171"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.54",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.237",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.032",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.564"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.645"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.395"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.244",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.039"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.19",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "34",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.11",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.520",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.633"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.723"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.443"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.223",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.871"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.996"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.610"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.699",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.658"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.752"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.461"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.184",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.029"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "86",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice 12 oz pkg",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice 6 oz pkg",
+                            "eqv": 9.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11831",
+            "name": "Potatoes, boiled, cooked in skin, flesh, with salt",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "76.98",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "60.04"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "87",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "68"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "118"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.87",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.46"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.10",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.13",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "15.70"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.6"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "BFSN",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.91",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.71"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.31",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "17"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "44",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "34"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "379",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "296"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "515"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "240",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "187"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "326"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "13.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "10.1"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.106",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.083"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.144"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.027"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.439",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.122"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.957"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.299",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.233"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.407"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "8"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.2",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.7"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.026",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.020"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.035"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.002",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.043",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 78.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "potato (2-1/2\" dia, sphere)",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

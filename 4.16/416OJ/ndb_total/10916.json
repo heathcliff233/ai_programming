@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "10916",
+            "name": "Pork, cured, ham -- water added, slice, boneless, separable lean and fat, heated, pan-broil",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "71.32",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60.62"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "134.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "125",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "236"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.62",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.83"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.05",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.29"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.72",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.46"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PAK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.72",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.46"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.85",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.72"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "281",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "239"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "531"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "334",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "284"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "631"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1212",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1030"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2291"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PAK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.93",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.64"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.406",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.345"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.767"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.188",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.160"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.355"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.838",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.962"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.034"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.430",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.365"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.813"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.47",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.40"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.24",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PAK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.717",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.459"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.245"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.321",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.973"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.387"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.659",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.560"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.246"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.039",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.074"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PAK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "54",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "102"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (3 oz)",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice",
+                            "eqv": 189.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

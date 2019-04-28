@@ -1,0 +1,1503 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11250",
+            "name": "Lettuce, butterhead (includes boston and bibb types), raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "95.63",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52.60"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "155.88"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.34"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.17"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.35",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.74"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.20"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.22",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.23",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.23"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.63"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "AS",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.94",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.52"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.53"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.24",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.68"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.02"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "33",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "238",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "131"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "388"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.7",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.0"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.057",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.031"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.093"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.062",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.101"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.357",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.196"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.582"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.054"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.027"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.082",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.134"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "73",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "119"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "166",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "271"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "3312",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1822"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5399"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "497"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "248"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "102.3",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.3"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166.7"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.3"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.7"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.029",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.047"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.008",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.117",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.064"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.191"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, shredded or chopped",
+                            "eqv": 55.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head (5\" dia)",
+                            "eqv": 163.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, large",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf, medium",
+                            "eqv": 7.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

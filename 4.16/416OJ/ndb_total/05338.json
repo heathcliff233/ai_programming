@@ -1,0 +1,738 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05338",
+            "name": "USDA Commodity, Chicken, canned, meat only, with broth",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.55",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "97.94"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "133",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "180"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.41",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.25"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31.82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.69",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.33"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.23",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "PIK",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.03",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.97",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.31"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "131",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "177"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "186"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "168",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "227"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "239"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "256",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "346"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "364"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "PIK",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.57",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.12"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.041",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.055"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.143",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.193"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.203"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.471",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.386"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.769"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.215",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.290"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.305"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "33",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.21",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "PIK",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.293",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.746"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.836"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.691",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.283"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.401"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.075",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.451"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.526"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "PIK",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "67",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "90"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "PIK",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup drained",
+                            "eqv": 135.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (5 oz)",
+                            "eqv": 142.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

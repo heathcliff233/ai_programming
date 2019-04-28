@@ -1,0 +1,562 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01184",
+            "name": "Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "87.43",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "148.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.86",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "BFZN",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.50",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.50",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "143",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "243"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.12",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "BFZN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "BFZN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "109",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "185"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "BFZN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "177",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "301"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "59",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "BFZN",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.67",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "LC",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.034",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.162",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.275"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.086",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.146"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.037",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.43",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "BFZN",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.116",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.197"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "BFZN",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.049",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.083"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "BFZN",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.005",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "LC",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "container (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

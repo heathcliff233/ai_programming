@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05306",
+            "name": "Ground turkey, cooked",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "62.07",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.90"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "204.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "203",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "670"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "27.37",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.44"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "90.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.40",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.53"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.52",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.25"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "254",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "208"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "838"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "294",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "241"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "970"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "78",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "257"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.11",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.55"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.077",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.211",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.173"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.696"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "8.724",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.154"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.789"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.633",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.519"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.089"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.34",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.10"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "79",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "261"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.11",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "BFZN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NR",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.669",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.189"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.808"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.458",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.836"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.411"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.917",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.392"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.626"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.134",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.110"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.442"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "93",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "307"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "patty (4 oz, raw) (yield after cooking)",
+                            "eqv": 82.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "unit, yield from 1 lb raw",
+                            "eqv": 330.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

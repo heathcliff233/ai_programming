@@ -1,0 +1,1272 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01002",
+            "name": "Butter, whipped, with salt",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.72",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.64"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.25"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "718",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1084"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "546"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.49",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.74"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "78.30",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.98"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.36"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "118.23"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.87",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.33"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.06",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "41",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "583",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "880"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "443"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.007",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.064",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.097"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.049"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.022",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.008",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.07",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "683",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1031"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "519"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "2468",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "94"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "232"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3727"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1876"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.37",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.07"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4.6",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.9"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "45.390",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.725"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.267"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68.539"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.496"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "19.874",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.755"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.868"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.010"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.331",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.127"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.313"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.030"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.532"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.669",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.101"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.251"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.030"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.028"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "225",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "340"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "171"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "pat (1\" sq, 1/3\" high)",
+                            "eqv": 3.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 9.4,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "stick",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "03303",
+            "name": "Babyfood, dinner, sweet potatoes and chicken, strained",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "83.70",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.39"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "94.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "74",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.51",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.40"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.17",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.04",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.77"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.3",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "LC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.65",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.45",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "FLM",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "200",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "226"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.37",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.040",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.040",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.166"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.175"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.137",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.155"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "216",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "244"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "4318",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "691"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4879"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.58",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.3",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "FLM",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.572",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.092"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.646"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.980",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.157"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.107"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.480",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.077"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.542"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar Beech-Nut Stage 2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

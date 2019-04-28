@@ -1,0 +1,1503 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11251",
+            "name": "Lettuce, cos or romaine, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "94.61",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44.47"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.68"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.49"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "592.26"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "JO",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.23",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.70"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.88"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.29",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.55"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.92"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.60"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.1",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.1"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.19",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.45"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "33",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "207"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.97",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.07"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "188"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "247",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1546"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "210"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.23",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.44"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.072",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.020"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.451"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.061"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.067",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.031"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.419"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.057"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.313",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.147"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.088"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.959"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.266"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.074",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.035"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.463"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "136",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "851"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "436",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "205"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2729"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "371"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "8710",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4094"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "523"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2439"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54525"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7404"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.13",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.81"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "102.5",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48.2"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.2"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.7"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "641.6"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.039",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.244"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.012",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.075"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.160",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.075"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.002"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup shredded",
+                            "eqv": 47.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf inner",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "leaf outer",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "head",
+                            "eqv": 626.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "NLEA serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

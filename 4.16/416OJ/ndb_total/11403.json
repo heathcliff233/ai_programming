@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11403",
+            "name": "Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "64.44",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "48.97"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "127.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "158",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "120"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "313"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.75",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "2.09"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.48",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "4.16"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "25.55",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "19.42"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "1.5"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.37",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.57",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.43"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "87",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "172"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "478",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "363"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "946"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "324",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "246"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "642"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.35",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "8.6",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "6.5"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.130",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.099"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.257"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.032",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.077",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "1.579"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.112"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.261",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.198"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.517"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.39",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.30"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.77"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7.4",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "5.6"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.848",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.644"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.679"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.874",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "1.424"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.711"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.502",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "1.142"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.974"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fries",
+                            "eqv": 76.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (9 oz), yields",
+                            "eqv": 198.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

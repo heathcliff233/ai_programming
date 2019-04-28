@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06959",
+            "name": "Gravy, instant turkey, dry",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.24",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "409",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1857"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.72",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.66",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.98"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "57.56",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.86"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "261.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.8",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "FLA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.60",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.51"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "115",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "522"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9.57",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.64"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "FLM",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "FLM",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "203",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "922"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "FLM",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "306",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1389"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4090",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "274"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18569"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "FLM",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.13",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.130",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.590"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.264",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.199"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.181",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.362"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.205",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.014"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.931"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "FLM",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.37",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "63",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "286"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.74",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.931",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.330"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.387"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.250",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.352"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.835"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.478",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.300"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.330"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "109"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "FLA",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 6.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (16 oz)",
+                            "eqv": 454.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,594 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06983",
+            "name": "Soup, ramen noodle, chicken flavor, dry",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.50",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.26"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "439",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "356"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.22",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.28"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.52",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.19"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "60.23",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48.79"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.9",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.96",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.59"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4.21",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.41"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "115",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "183",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "148"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1923",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1558"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "115"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.59",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.433",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.351"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.254",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.206"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.536",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.484"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.332"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.039",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.032"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.002"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.41",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.95"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "8.095",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.557"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.486"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.138",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.972"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.368"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.201",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.783"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.132"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.063",
+                    "measures": [
+                        {
+                            "label": "package without flavor packet",
+                            "eqv": 81.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "packet",
+                            "eqv": 6.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

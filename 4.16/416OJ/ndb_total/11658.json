@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11658",
+            "name": "Spinach souffle",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "70.73",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96.19"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "575.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "172",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "234"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1398"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.89",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.73"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.95",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.61"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.90",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.02"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.97"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.7",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "RA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.85",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.52"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "165",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "224"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1341"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.19",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.62"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "244"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "139",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1130"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "231",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "314"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1878"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "566",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "770"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4602"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "RA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.85",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.16"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "7.3",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.9"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.082",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.112"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.667"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.263",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.358"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.479",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.651"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.894"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.098",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.133"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.797"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "77",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "626"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.40",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.54"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "244",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "332"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1984"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "2891",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3932"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23504"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.93",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.26"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "31",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "252"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "RA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "126.5",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "172.0"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1028.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.091",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.284"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49.520"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.021",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.109"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.561"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.610",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.830"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.959"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.188",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.256"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.528"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "RA",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "118",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "160"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "959"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "RA",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 136.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "recipe yield",
+                            "eqv": 813.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

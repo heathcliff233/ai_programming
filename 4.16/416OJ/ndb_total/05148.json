@@ -1,0 +1,824 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05148",
+            "name": "Goose, domesticated, meat only, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "68.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "58.05"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "126.36"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "523.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "161",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "137"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "298"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1233"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "19.34"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.09"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "174.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.13",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.06"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.19"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "54.62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.57",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.18"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.75"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "19.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "184"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "312",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "265"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "577"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2390"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "420",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "357"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "777"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3217"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "87",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "74"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "161"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "666"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.34",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.99"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.33"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "17.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "7.2",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.1"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.3"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "55.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.129",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.110"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.239"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.988"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.377",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.320"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.697"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.888"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.278",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.636"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.914"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "32.769"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.640",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.544"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.184"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4.902"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "31",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "237"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.49",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.42"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.91"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "40",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "34"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "74"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "306"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.790",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.372"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.162"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "21.371"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.850",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.573"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.422"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "14.171"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.900",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.765"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.665"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "6.894"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "71"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to-cook goose)",
+                            "eqv": 185.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "155"
+                        },
+                        {
+                            "label": "goose",
+                            "eqv": 766.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "643"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

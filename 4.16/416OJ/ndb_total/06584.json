@@ -1,0 +1,786 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06584",
+            "name": "Soup, broccoli cheese, canned, condensed, commercial",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "82.70",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100.07"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "250.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "87",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "264"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.10",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.54"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.30",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.41"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "MC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.70",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.32"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "MA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.8",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "FLA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.12",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.57"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "41",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "FLA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "FLA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "FLA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "42",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "51"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "127"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "MA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "207",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "250"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "627"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "661",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "800"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "FLA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.26",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.4"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.061"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.040",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.121"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.248",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.300"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.751"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.064",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.077"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.194"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "40",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "121"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "MA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.02",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "66",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "200"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "825",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "998"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2500"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.72",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.87"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "FLA",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "51.8",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62.7"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "157.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.600",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.936"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.848"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.000",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.420"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.060"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.700",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.057"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.151"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "MA",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "FLA",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1/2 cup",
+                            "eqv": 121.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can 10.7 oz (10.75 oz)",
+                            "eqv": 303.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

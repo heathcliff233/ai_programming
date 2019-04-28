@@ -1,0 +1,714 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "02045",
+            "name": "Dill weed, fresh",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "85.95",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.86"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.46",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.12",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.02",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.1",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "208",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6.59",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "55",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "66",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "738",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "61",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.91",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "85.0",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.058",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.296",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.570",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.140"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.185",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.002"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.016"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "150",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "386",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "7718",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "77"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "687"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.802",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.008"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.071"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.095",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.008"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "sprigs",
+                            "eqv": 1.0,
+                            "eunit": "g",
+                            "qty": 5.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup sprigs",
+                            "eqv": 8.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

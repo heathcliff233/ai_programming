@@ -1,0 +1,1458 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "03121",
+            "name": "Babyfood, vegetables, peas, strained",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "87.52",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.81"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "83.14"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "210.05"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79.64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "50",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.27",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.52"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.93"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.11"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.85"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "JA",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.43",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.03"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.36",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.34"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.37"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.94"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.06"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.8"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.01",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.91"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.82"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.95",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.90"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.28"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "50",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "106",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "LC",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "JA",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.47",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.13"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.6",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.087",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.014"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.083"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.209"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.065",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.156"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.059"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "JA",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.119",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.179"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.317"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.063"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.686"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.018"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.016",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "216",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "205"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "518"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "197"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.02",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "15.5",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.4"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.7"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.2"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.070",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.020"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.067"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.168"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.064"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.050",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.008"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.014"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.120"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NC",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.200",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.032"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.057"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.190"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.480"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.182"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "BFSN",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "container",
+                            "eqv": 91.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

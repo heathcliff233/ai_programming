@@ -1,0 +1,1682 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01023",
+            "name": "Cheese, gruyere",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "33.19",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.41"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.29"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.98"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43.81"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.85"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "413",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "545"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "446"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "702"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "29.81",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.45"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.35"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.47"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39.35"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.19"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "32.34",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.17"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.06"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.85"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.69"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.93"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.36",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "NR",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.36",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1011",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "287"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "283"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "152"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1335"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1092"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1719"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.17",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "36",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "605",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "172"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "169"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "799"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "653"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1028"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "81",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NR",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "714",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "202"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "200"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "942"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "771"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1214"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.11"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.09"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.15"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.21"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.065"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.102"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.279",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.078"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.042"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.368"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.301"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.474"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.106",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.030"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.030"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.140"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.114"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.180"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.081",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.107"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.087"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.60",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.11"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.73"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "271",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "358"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "293"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "461"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "948",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "269"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "265"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "142"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1251"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1024"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1612"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.28",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "AS",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFFN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.7",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.6"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.9"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "18.913",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.362"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.296"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.837"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.965"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.426"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.152"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "10.043",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.847"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.812"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.506"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.257"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.846"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.073"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.733",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.491"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.485"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.260"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.288"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.872"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.946"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "110",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "145"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "119"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "187"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "slice (1 oz)",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cubic inch",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, diced",
+                            "eqv": 132.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup, shredded",
+                            "eqv": 108.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (6 oz)",
+                            "eqv": 170.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

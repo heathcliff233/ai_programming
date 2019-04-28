@@ -1,0 +1,824 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "05159",
+            "name": "Quail, breast, meat only, raw",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "71.67",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "60.92"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "149.07"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "123",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "256"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.59",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "19.20"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46.99"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.99",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.54"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.22"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.31",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.96"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.80"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "228",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "194"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "474"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "260",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "221"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "541"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "146"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "55",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "114"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.30"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.62"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.3"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.6"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.240",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.204"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.499"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.134"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.243",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.207"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.505"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "8.200",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.970"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.056"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.592"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.530",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.451"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.102"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.297"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.47",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.40"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.98"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.870",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.740"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.810"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.487"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.840",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.714"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.747"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.470"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.770",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.655"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.602"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.431"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "58",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "unit (yield from 1 lb ready-to cook quail)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "121"
+                        },
+                        {
+                            "label": "breast",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

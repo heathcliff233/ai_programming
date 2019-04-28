@@ -1,0 +1,810 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11095",
+            "name": "Broccoli, frozen, spears, cooked, boiled, drained, without salt",
+            "ds": "Standard Reference",
+            "manu": "",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "90.72",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "83.46"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "226.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "26"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.10",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.85"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.11",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "derivation": "NC",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.36",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4.93"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "derivation": "NONE",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.8"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "derivation": "BFSN",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.47",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.35"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "51",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "47"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.61",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "18"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "55",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "51"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "180",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "166"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "450"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "22"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "derivation": "NONE",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "40.1",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "36.9"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.055",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.081",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.075"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.203"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.458",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.421"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.145"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.130",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.120"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.325"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "28"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "51",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "47"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "derivation": "NC",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1011",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "930"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2528"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.32",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.21"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "derivation": "NONE",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "derivation": "BFSN",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "88.1",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "81.1"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "220.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.018",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.008",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.020"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.055",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "derivation": "NONE",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "derivation": "NONE",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 92.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (10 oz) yields",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}
