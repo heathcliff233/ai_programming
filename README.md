@@ -5,9 +5,9 @@ The first part of python basics and data mining ends on 4.28, after which machin
 
 Hope there is chance to share my notes and help more to start with machine learning and neuronetwork.  
 
---
+----
 ## Contents
---
+----
 
 * [2.26 week 01](https://nbviewer.jupyter.org/github/heathcliff233/ai_programming/tree/master/2.26/)  
 
